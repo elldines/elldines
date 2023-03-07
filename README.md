@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elldines
 - 👀 I’m interested in data stuffz
-- 🌱 I’m currently learning go! 
+- 🌱 I’m currently learning rust! 
 - 💞️ I’m looking to collaborate on lineage stuff 
 
 <!---
